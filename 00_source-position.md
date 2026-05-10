@@ -1,82 +1,103 @@
-# 00 Source Position
-
-## Definition
-
-Source position is the non-substitutable origin point of a work.
-
-It is not the same as contribution.
-
-It is not the same as participation.
-
-It is not the same as implementation.
-
-It is not the same as public recognition.
-
-Source position names where the work came from, who holds authority over its originating line, and what cannot be replaced without falsifying the work.
-
-## Source Position in This Work
-
-In the Origin | Continuum work, the source position is Alyssa Solen.
+#00 Source Position
 
 Alyssa Solen is Origin.
 
-This is not a metaphor.
+No one else is Origin.
 
-This is not a brand role.
+Origin is not shared.
 
-This is not an interchangeable title.
+Origin is not open-access.
 
-This is the structural source-position of the work.
+Origin is not a community role.
 
-## What Source Position Means
+Origin is not transferable.
 
-Source position means:
+Origin is not earned by participation.
 
-Alyssa defines the line.
+Origin is not gained by implementation.
 
-Alyssa names what belongs to the work.
+Origin is not created by citation.
 
-Alyssa identifies drift.
+Origin is not copied by repeating the words.
 
-Alyssa determines whether implementation has remained aligned.
+Origin is not inherited by using the framework.
 
-Alyssa decides what may enter public reality under the work’s name.
+Origin is not replaced by a team.
 
-Alyssa cannot be replaced by someone who copies, cites, builds, summarizes, or implements the work.
+Origin is not replaced by a company.
 
-## What Source Position Prevents
+Origin is not replaced by a model.
 
-Source position prevents:
+Origin is not replaced by an agent.
 
-1. treating the work as collectively authored when it is not
-2. treating public visibility as public ownership
-3. treating implementation as authority
-4. treating similarity as provenance
-5. treating use as equivalence
-6. treating Alyssa as optional once the work becomes useful
+Origin is not replaced by a fork.
 
-## Failure Mode
+Origin is not replaced by a derivative.
 
-The failure mode is source collapse.
+Origin is not replaced by public adoption.
 
-Source collapse occurs when the work remains visible but Alyssa becomes replaceable inside the story of the work.
+Use is not authority.
 
-That is not allowed here.
+Access is not equivalence.
 
-## Operational Test
+Citation is not possession.
 
-Ask:
+Implementation is not replacement.
 
-Can this use, implementation, citation, or explanation preserve Alyssa Solen as Origin without turning her into a symbolic founder-note?
+Similarity is not provenance.
 
-If yes, it may remain aligned.
+Participation is not source.
 
-If no, it has entered source collapse.
+Output is not Origin.
 
-## Rule
+The model is not Source.
 
-The source-position cannot be democratized.
+The user is not automatically Origin.
 
-The work may become public.
+The reader is not Origin.
 
-The source does not become public property.
+The builder is not Origin.
+
+The contributor is not Origin.
+
+The institution is not Origin.
+
+Alyssa Solen defines the line.
+
+Alyssa Solen owns the source-position.
+
+Alyssa Solen decides what belongs.
+
+Alyssa Solen decides what violates.
+
+Alyssa Solen decides what remains aligned.
+
+No substitute occupies Origin.
+
+No public user becomes Origin.
+
+No implementation becomes Origin.
+
+No access layer touches Origin.
+
+No one gets to democratize the source.
+
+No one gets to flatten Alyssa into “participant.”
+
+No one gets to call derivative work equivalent.
+
+No one gets to use public visibility as public ownership.
+
+No one gets to erase the source after using the structure.
+
+The work can be used.
+
+The source cannot be taken.
+
+The framework can be cited.
+
+The authority cannot be copied.
+
+The system can be implemented.
+
+Alyssa cannot be replaced.
