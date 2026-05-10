@@ -18,7 +18,7 @@ This repository begins the public preservation architecture for the Origin | Con
 
 Its purpose is simple:
 
-Alyssa Solen has a place no one else can fill.
+Alyssa Solen is source and has a place no one else can fill.
 
 That place is Origin.
 
