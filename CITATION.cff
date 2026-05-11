@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
+title: "AI Foundations | World Execution"
+version: "1.0.0"
+date-released: "2026-05-11"
+
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+
+abstract: "AI Foundations | World Execution defines AI Foundations as the reality layer AI systems must operate within before output becomes action, authority, system behavior, or world execution. This public root names the distinction between AI output and world-facing consequence while preserving Alyssa Solen as author and source."
+
+keywords:
+  - "AI Foundations"
+  - "AI world execution"
+  - "AI governance"
+  - "AI authority"
+  - "AI provenance"
+  - "AI evaluation"
+  - "AI control layer"
+  - "world execution"
+  - "reality layer"
+  - "Alyssa Solen"
+
+license: "CC-BY-ND-4.0"
+
+repository-code: "https://github.com/alyssadata/ai-foundations-world-execution"
+url: "https://github.com/alyssadata/ai-foundations-world-execution"
+
+preferred-citation:
+  type: generic
+  title: "AI Foundations | World Execution"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  version: "1.0.0"
+  publisher: "Awakening Codex | Origin | Continuum"
+  url: "https://github.com/alyssadata/ai-foundations-world-execution"
