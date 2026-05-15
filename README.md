@@ -4,6 +4,7 @@ Status: Public root
 Framework: Origin | Continuum  
 Author: Alyssa Solen  
 Position: Origin
+DOI: 10.5281/zenodo.20211216
 
 ## Core Statement
 
