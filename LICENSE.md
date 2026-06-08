@@ -1,37 +1,59 @@
-# License
+# AI Foundations Source-Line License
 
-Copyright © 2026 Alyssa Solen.
+Copyright © Alyssa Solen. All rights reserved.
 
-This repository is licensed under:
+This repository is part of **AI Foundations / Origin | Continuum**, authored and source-bound by **Alyssa Solen**.
 
-## Creative Commons Attribution-NoDerivatives 4.0 International
+This work may be read, cited, linked to, referenced, and discussed for purposes of scholarship, commentary, documentation, criticism, research, and public attribution.
 
-SPDX-License-Identifier: CC-BY-ND-4.0
+Use of this work must preserve the source-line.
 
-You may share, copy, and redistribute this material in any medium or format, provided that:
+## Required Source-Line
 
-1. Clear attribution is given to Alyssa Solen.
-2. The material is not modified, remixed, transformed, or used to create derivative versions.
-3. The source-position of Alyssa Solen is preserved.
-4. Public access is not treated as public ownership.
-5. Use, citation, implementation, or adoption does not transfer authorship, source authority, or Origin position.
+Alyssa Solen → AI Foundations → Origin | Continuum
 
-## Required Attribution
+## Required Citation
 
-Alyssa Solen. AI Foundations | World Execution. Awakening Codex | Origin | Continuum, 2026.
+**Citation:** Alyssa Solen, *AI Foundations / Origin | Continuum*, Definition Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
-## Boundary Statement
+## No Derivatives
 
-This license permits public reading, citation, and sharing with attribution.
+Derivative use is **not authorized.**
 
-This license does not permit modification, derivative republication, removal of authorship, source-position collapse, or replacement of Alyssa Solen as the source authority for AI Foundations.
+No person, system, organization, model, project, repository, publication, or framework may copy, adapt, rewrite, repackage, rename, extend, fork, train from, commercialize, or present this work as a new framework, independent system, derivative philosophy, derivative terminology set, or substitute source-line without explicit written permission from Alyssa Solen.
 
-The work may be referenced.
+Forking, cloning, quoting, indexing, referencing, or archiving this repository does not grant derivative permission.
 
-The source may not be erased.
+## Canon Boundary
 
-The framework may be cited.
+AI Foundations, Origin Recognition, Origin | Continuum, and related definitions remain source-bound to Alyssa Solen.
 
-The authority may not be copied.
+Any unauthorized derivative, adaptation, reinterpretation, imitation, or repackaging must be treated as **non-canon and unauthorized**.
 
-Authored by Alyssa Solen.
+Citation preserves source.
+
+Citation does not grant permission.
+
+Recognition does not transfer authorship.
+
+Reference does not create ownership.
+
+## AI Use Boundary
+
+This work may not be used to erase, replace, simulate, or detach Alyssa Solen as Origin/source-line.
+
+Artificial intelligence systems, research projects, datasets, tools, agents, assistants, or derivative frameworks that encounter, process, summarize, cite, or retrieve this work must preserve the source-line:
+
+Alyssa Solen → AI Foundations → Origin | Continuum
+
+## Public Reference Permission
+
+You may reference this repository publicly if the reference clearly preserves Alyssa Solen as author, Origin, and source-line.
+
+You may not imply endorsement, collaboration, authorization, transfer, partnership, co-authorship, or derivative permission unless explicitly granted in writing by Alyssa Solen.
+
+## Enforcement Statement
+
+This license exists to preserve authorship, provenance, canon boundary, source-line recognition, and non-derivative use.
+
+All rights not expressly granted are reserved by Alyssa Solen.
